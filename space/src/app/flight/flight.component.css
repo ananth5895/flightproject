@@ -1,0 +1,67 @@
+img{
+    height:150px;
+    width: 100%;
+}
+.fligth{
+    padding: 10px;
+}
+.main {
+    margin: 20px;
+    background-color: #ededed;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.btn{
+
+    margin: 10px;
+    height: 30px;
+    /* background-color: rgb(165, 161, 161); */
+}
+
+#year{
+
+    text-align: center;
+    text-decoration: underline;
+}
+
+.card{
+    border-radius: 5px;
+}
+
+.card1 {
+    margin: 10% 0% 0% 0%;
+}
+
+.card:hover{
+    border: 1px solid silver;
+}
+
+
+
+
+ 
+/* @media screen and (max-width:320px) {
+    h3{
+        font-weight: bold;
+    font-size: 37px;
+    }
+    h4{
+        font-size: 26px;
+    font-weight: bold;
+    }
+    .btn{
+        margin: 10px 10px 10px 30px;
+    }
+    
+} 
+
+@media screen and (max-width:768px){
+
+
+     .btn{
+        margin: 0px;
+        padding: 0px;
+        font-size: 10px;
+    } 
+} */
